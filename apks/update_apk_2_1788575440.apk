@@ -1,0 +1,24 @@
+{
+  "app": "MisEntregas",
+  "version": "1.1",
+  "exportDate": "2026-08-27T12:18:12.227Z",
+  "data": [
+    {
+      "nombre": "Yuniel",
+      "producto": "Arroz",
+      "precio": 250,
+      "cantidad": 20,
+      "unidad": "lb",
+      "entregado": false
+    },
+    {
+      "nombre": "Sailin",
+      "producto": "Frijol",
+      "precio": 300,
+      "cantidad": 10,
+      "unidad": "lb",
+      "entregado": false
+    }
+  ],
+  "history": []
+}
